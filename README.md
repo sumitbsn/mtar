@@ -36,7 +36,7 @@ from 				 $6
 that 				 $7
 with 				 $8
 them 				 $9
-which  				 $10
+which  			 $10
 does 				 $11
 
 Input File Content –
